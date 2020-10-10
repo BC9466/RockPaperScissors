@@ -1,4 +1,4 @@
-# UBC
+# Rock Paper Scissors with bots!
 
  Rock Paper Scissors
 
