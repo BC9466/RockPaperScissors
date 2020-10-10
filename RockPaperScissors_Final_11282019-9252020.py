@@ -4,6 +4,7 @@ from tkinter import *
 import random, time
 
 # All images were drawn by Dennis Phan
+# Collaboration course project by Dennis Phan and Cheng-Hsi Li
 
 # This is our code for the game, rock,paper,scissors
 
